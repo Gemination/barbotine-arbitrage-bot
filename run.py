@@ -134,4 +134,4 @@ except KeyboardInterrupt:
     else:
         pass
 
- if or
+ if or and
